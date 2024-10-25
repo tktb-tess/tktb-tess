@@ -1,4 +1,6 @@
-# 斗琴庭暁響（TOKOTOBA Akane）/ Tessyrrhaqt
+# 斗琴庭暁響（TOKOTOBA Akane）
+
+alias: Tessyrrhaqt, Akih@яu, Hart Bornbohrer etc.
 
 conlanger / amateur composer
 
